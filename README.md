@@ -41,3 +41,9 @@ No visitor analytics, advertising scripts or external fonts/media are added. Git
 ## Checks and device review
 
 JavaScript syntax, catalog consistency, translation coverage and simulated language/country selection are checked during preparation. Browser rendering and actual telephone/browser-app handoff still need a device check. Check phone and desktop layouts, all three languages, both support categories, saved selection, unsupported countries, blocked storage and the no-JavaScript fallback. Do not place test calls to emergency numbers.
+
+## Swiss language coverage
+
+The reviewed list now includes French-speaking Pro Mente Sana Association romande, Italian-language Pro Mente Sana Antenna ticinese, and Auto Aiuto Ticino. The national peer-support directory has German, French and Italian page links. Die Dargebotene Hand / La Main Tendue / Telefono Amico has verified German/French/Italian service access and provider-page language options; English remains a separate service.
+
+The interface languages remain English, German and French. This does not restrict which service languages are shown. Keep all Swiss resources visible and let people choose an Italian provider page even in an English or French interface. Do not infer spoken counselling languages solely from translated web pages.
