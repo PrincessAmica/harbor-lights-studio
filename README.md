@@ -30,7 +30,7 @@ Ten countries: CH, DE, AT, FR, LI, BE, LU, GB, US, CA. Emergency buttons come be
 
 The editable master `help-resources.json` and the generator `build-web-catalog.py` are in the separate Anchor Help Resources package. Update that master, verify official sources, then regenerate `help-resources.js` and update the app's bundled copy together. Keep stable IDs. Do not hand-edit only one app or website copy. Commands are documented in that package.
 
-The list contains care directories, scheduled counselling and peer/community support. It is not a complete crisis-line directory. Exact hours, eligibility and charges may vary; the cards say so. The recorded review checked provider information and links, not service responsiveness. No test calls were made.
+The list contains care directories, listening services, scheduled counselling and peer/community support. It is not a complete crisis-line directory. Exact hours, eligibility and charges may vary; the cards say so. The recorded review checked provider information and links, not service responsiveness. No test calls were made.
 
 Review every three months and whenever a broken link or service change is reported. Review dates are content-review dates, not guarantees that a service is available at the moment of use. Update dates only after completing the relevant review.
 
