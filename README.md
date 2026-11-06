@@ -9,7 +9,7 @@ https://harborlightsstudio.ch
 - delete-account.html — Account deletion instructions
 - impressum.html — Redirect to the Impressum
 - site-language.js — English, German and French translations
-- CNAME — Custom domain configuration; keep this file
+- CNAME — Custom domain configuration
 
 ## Publishing
 Upload the website files to the repository root and commit to main.
