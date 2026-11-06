@@ -1,1 +1,6 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="0;url=privacy.html#responsible"><link rel="canonical" href="https://harborlightsstudio.ch/privacy.html"><title>Impressum · Harbor Lights Studio</title></head><body><p><a href="privacy.html#responsible">Open Impressum &amp; Privacy</a></p></body></html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="canonical" href="https://harborlightsstudio.ch/privacy.html"><title>Impressum · Harbor Lights Studio</title></head><body><p><a id="legal-link" href="privacy.html#responsible">Open Impressum &amp; Privacy</a></p><script>
+const target = new URL('privacy.html', location.href);
+const lang = new URLSearchParams(location.search).get('lang');
+if (['en','de','fr'].includes(lang)) target.searchParams.set('lang', lang);
+target.hash = 'responsible'; location.replace(target.href);
+</script></body></html>
